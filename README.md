@@ -1,0 +1,2 @@
+# TelegrammS
+Telegramm for SCOM
